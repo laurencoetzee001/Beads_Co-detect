@@ -1,0 +1,83 @@
+Handling Edgecases (refinement of codebook)
+# Edge Case Analysis Framework
+
+## Systematic Review Process
+
+For each edge case, we'll follow this structured analysis:
+
+### Step 1: Text Presentation
+- **Edge Case ID**: [ID number]
+- **AI Confidence**: [0.20-0.65]
+- **Original Text**: [Full text of the problematic entry]
+
+### Step 2: Ambiguity Identification
+**What made this case difficult?**
+- [ ] Unclear exchange language
+- [ ] Temporal ambiguity (historical vs. contemporary)
+- [ ] Multiple possible interpretations
+- [ ] Missing context
+- [ ] Cultural/linguistic barriers
+- [ ] Complex multi-step transaction
+- [ ] Implicit vs. explicit information
+
+### Step 3: Current Codebook Analysis
+**How would current rules handle this?**
+- What does the current codebook say?
+- Where are the gaps or ambiguities?
+- What additional guidance is needed?
+
+### Step 4: Expert Decision
+**Your guidance:**
+- How should this case be coded?
+- What's the reasoning?
+- What rule would prevent future confusion?
+
+### Step 5: Rule Creation
+**New codebook addition:**
+- Specific rule for this scenario
+- Examples and counter-examples
+- Integration with existing rules
+
+## Edge Case Categories to Track
+
+### Category A: Exchange Determination Ambiguity
+- Unclear action verbs
+- Implicit transactions
+- Value statements vs. actual exchanges
+
+### Category B: Temporal Context Issues
+- Historical accounts vs. contemporary observations
+- Hypothetical vs. actual scenarios
+- Mixed timeframes
+
+### Category C: Function Classification Problems
+- Multiple overlapping functions
+- Unclear aesthetic vs. social functions
+- Trade vs. currency distinctions
+
+### Category D: Group/Party Identification Issues
+- Unclear ethnic group references
+- Local vs. traveler ambiguity
+- Complex multi-party scenarios
+
+### Category E: Measurement and Description Issues
+- Unclear bead descriptions
+- Complex measurement units
+- Missing contextual information
+
+## Running Analysis Log
+
+| Case ID | Confidence | Category | Issue | Resolution | New Rule |
+|---------|------------|----------|-------|------------|----------|
+| [To be filled as we analyze each case] |
+
+## Iterative Improvement Tracking
+
+**Iteration 1 Results**: 16 edge cases (2.0%)
+**Target for Iteration 2**: <8 edge cases (1.0%)
+
+**Key Metrics to Track**:
+- Edge case reduction rate
+- Confidence score improvements
+- Inter-rater reliability (if multiple coders)
+- Rule coverage completeness
